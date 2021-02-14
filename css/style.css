@@ -1,0 +1,184 @@
+@import url(bootstrap-theme.min.css);
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Lobster', cursive;
+}
+
+#login .container{
+    padding-top: 100px;
+    /*margin: 0 auto;*/
+}
+
+#add_user .container{
+	padding: 70px 0 100px;
+}
+
+#user_index #user_panel .container{
+	padding-top: 100px;
+}
+
+
+
+
+#user_index  #user_panel .container .row .col-sm-3half{
+	width: 350px;
+    text-align: center;
+    margin: 10px auto;
+	padding: 30px 0;
+	/*cursor: pointer;*/
+	border: 2px solid rgba(248, 245, 245, 0.45);
+	box-shadow: 0px 0px 50px 5px rgba(130,126,130,1);
+	border-radius: 5px;
+}
+
+a:link,
+a:visited{
+	text-decoration: none;
+	border: none;
+}
+#user_index  #user_panel .container .row .col-sm-3half i{
+	color: rgba(248, 245, 245, 0.45);
+	font-size: 30px;
+}
+
+#user_index  #user_panel .container .row .col-sm-3half .text{
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+
+#user_index #user_panel .container .row .unit{
+	background: #6a0572;;
+}
+#user_index #user_panel .container .row .billing{
+	background: #2d3949;
+}
+#user_index #user_panel .container .row .payment{
+	background: #2d095c;
+}
+#user_index #user_panel .container .row .info{
+	background: #1a2c5b;
+}
+#user_index #user_panel .container .row .announcement{
+	background: #ffb400;
+}
+#user_index #user_panel .container .row .control{
+	background: #e43a19;
+}
+#user_index #user_panel .container .row .balance{
+	background: #658525;
+}
+#user_index #user_panel .container .row .connection{
+	background: #840701;
+}
+
+#user_unit #unit_nav{
+	padding-top: 100px;
+}
+
+#user_billing #billing_nav{
+	padding-top: 100px;
+	text-transform: capitalize;
+}
+#user_billing #billing_nav .container tbody td{
+	text-transform: capitalize;
+}
+
+#announcement #announcement_nav{
+	padding-top: 100px;
+}
+#user_payment #payment_nav{
+	padding-top: 70px;
+	padding-bottom: 20px;
+}
+#user_payment #payment_nav .card{
+	border-color: #2FA4E7;
+}
+
+#user_payment #payment_nav .card .card-header{
+	background-color: #2FA4E7;
+	color: #ffffff;
+}
+
+#user_payment #payment_nav .form{
+	padding-top: 80px;
+}
+
+#admin_index #admin_panel .container{
+	padding-top: 100px;
+}
+
+#admin_index #admin_panel .container .row .col-sm-3half{
+	width: 350px;
+    text-align: center;
+    margin: 10px auto;
+	padding: 30px 0;
+	/*cursor: pointer;*/
+	border: 2px solid rgba(248, 245, 245, 0.45);
+	box-shadow: 0px 0px 50px 5px rgba(130,126,130,1);
+	border-radius: 5px;
+}
+
+#admin_index #admin_panel .container .row .col-sm-3half i{
+	color: rgba(248, 245, 245, 0.45);
+	font-size: 30px;
+}
+
+#admin_index #admin_panel .container .row .col-sm-3half .text{
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+
+#admin_index #admin_panel .container .row .unit{
+	background: #6a0572;;
+}
+#admin_index #admin_panel .container .row .billing{
+	background: #2d3949;
+}
+#admin_index #admin_panel .container .row .payment{
+	background: #2d095c;
+}
+#admin_index #admin_panel .container .row .info{
+	background: #1a2c5b;
+}
+#admin_index #admin_panel .container .row .announcement{
+	background: #ffb400;
+}
+#admin_index #admin_panel .container .row .control{
+	background: #e43a19;
+}
+#admin_index #admin_panel .container .row .balance{
+	background: #658525;
+}
+#admin_index #admin_panel .container .row .connection{
+	background: #840701;
+}
+
+
+
+#user_list #user_nav{
+	padding-top: 100px;
+}
+
+#payment_list #payment_nav{
+	padding-top: 100px;
+}
+
+#announcement_list #announcement_nav{
+	padding-top: 100px;
+}
+
+#unit_list #unit_nav{
+	padding-top: 100px;
+}
+
+#change .container{
+	padding-top: 100px;
+}
+
+#forget .container{
+	padding-top: 100px;
+}

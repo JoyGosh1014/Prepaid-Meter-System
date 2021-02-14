@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.0.0",
+        "php-ai/php-ml": "^0.9.0",
+        "rubix/ml": "^0.2.4"
+    }
+}
